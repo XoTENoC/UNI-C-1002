@@ -1,0 +1,12 @@
+Input   Expected Output   Output  
+567     7                 7       
+        6                 6       
+        5                 5   
+    
+849     9                 9       
+        4                 4       
+        8                 8  
+     
+678     8                 8       
+        7                 7       
+        6                 6       

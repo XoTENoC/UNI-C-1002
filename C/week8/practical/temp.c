@@ -17,7 +17,7 @@ int main(void){
     if (tempC >= -50) {
 
         // converting celius to fahrenheit
-        tempF = ((tempC * 9) / 5) + 32;
+        tempF = (tempC * 9 / 5) + 32;
 
         // printing fahrenheit
         printf("%d degrees Celsius is %0.2f degrees Fahrenheit\n", tempC, tempF);

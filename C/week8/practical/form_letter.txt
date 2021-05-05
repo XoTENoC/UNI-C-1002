@@ -1,0 +1,4 @@
+Name        Age   Fraction   Expected Output                                                                      Output                                                                              
+Nathaniel   18    0.5        Your name is Nathaniel, you are 18 years old and your employment fraction is 0.50.   Your name is Nathaniel, you are 18 years old and your employment fraction is 0.50.  
+Luke        42    0.1        Your name is Luke, you are 42 years old and your employment fraction is 0.10.        Your name is Luke, you are 42 years old and your employment fraction is 0.10.       
+David       35    0.9        Your name is David, you are 32 years old and your employment fraction is 0.90.       Your name is David, you are 32 years old and your employment fraction is 0.90.      
