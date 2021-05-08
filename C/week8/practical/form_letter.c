@@ -12,7 +12,7 @@ int main(void){
 
     // Asking the user for input of name
     printf("Please enter your name: ");
-    scanf("%s", name);
+    scanf("%[^\n]%*c", name);
 
     // Asking the user for input of age
     printf("Please enter your age: ");
