@@ -1,0 +1,3 @@
+Input          Expected First   Expected Last   Observed First   Observed Last
+Incre2di8ble   cedible          nr              cedible          nr
+amaZ87ing      aaig             mn              aaig             mn

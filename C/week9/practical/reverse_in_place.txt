@@ -1,0 +1,4 @@
+ Input        Expected Output   Observed Output  
+ ------------ ----------------- ----------------- 
+  Folk         kloF              kloF             
+  MasterMind   dniMretsaM        dniMretsaM       

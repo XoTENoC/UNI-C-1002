@@ -1,0 +1,5 @@
+ Input Num       Expected Min   Expected Max   Expected Average   Observed Min   Observed Max   Observed Average  
+ --------------- -------------- -------------- ------------------ -------------- -------------- ----------------- 
+  8 47 32 37 35   8              47             25.8               8              47             25.8             
+  4 15 40         4              40             19.7               4              40             19.7             
+  30 25 18        18             30             24.3               18             30             24.3    

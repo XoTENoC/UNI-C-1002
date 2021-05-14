@@ -1,0 +1,4 @@
+input     Expected First   Expected Last   Observed First   Observed Last
+max       a                mx              a                mx
+words     d                wors            d                wors
+testing   eig              tstn            eig              tstn

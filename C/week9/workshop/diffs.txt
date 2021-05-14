@@ -1,0 +1,4 @@
+Positions   Expected Sumdiffs   Observed Sumdiffs
+5 8 5       3 6 3               3 6 3
+8 2 7 4     11 13 9 9           11 13 9 9
+3 7 6 1 8   14 12 11 20 15      14 12 11 20 15

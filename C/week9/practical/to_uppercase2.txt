@@ -1,0 +1,5 @@
+  Input          Expected Output   Observed Output  
+ -------------- ----------------- ----------------- 
+  jeNNiFer       JENNIFER          JENNIFER         
+  LorAin         LORAIN            LORAIN           
+  Kimber, Long   KIMBER, LONG      KIMBER, LONG     
