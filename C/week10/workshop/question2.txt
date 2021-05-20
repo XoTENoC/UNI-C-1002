@@ -1,0 +1,4 @@
+input           expected output     output
+heloo heloo #y  helooheloo          helooheloo
+qwe h #wer      qweh                qweh
+asdfghjkl #h    asdfghjkl           asdfghjkl

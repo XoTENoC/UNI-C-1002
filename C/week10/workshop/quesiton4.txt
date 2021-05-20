@@ -1,0 +1,6 @@
+input           expected output     output
+123             this is a string 6  this is a string 6 
+97              this is a string 16 this is a string 16
+731             this is a string 11 this is a string 11
+11111           this is a string 5  this is a string 5 
+76              this is a string 13 this is a string 13
