@@ -1,3 +1,5 @@
+// code for practice exam
+
 #include <stdio.h>
 #include <stdlib.h>
 
